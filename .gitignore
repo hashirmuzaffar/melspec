@@ -1,0 +1,10 @@
+# build / test artefacts
+*.test
+*.out
+coverage.*
+
+# python venv used only to regenerate fixtures
+.venv/
+__pycache__/
+
+.DS_Store
